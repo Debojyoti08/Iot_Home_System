@@ -5,6 +5,7 @@ const ROOM_CONTROLS = {
   'room2': ['Light 1', 'Light 2', 'Fan', 'AC'],
   'room3': ['Light 1', 'Light 2', 'Fan', 'AC'],
   'washroom': ['Light', 'Geyser'],
+  'kitchen': ['Light', 'Fan']
 };
 
 // Toggle Switch Component

@@ -1,0 +1,16 @@
+{
+  "devices": {
+    "Living Room": {
+      "Light 1": true,
+      "Light 2": false,
+      "Fan": {
+        "power": true,
+        "speed": 3
+      },
+      "AC": false
+    },
+    "Bedroom": {
+      "Light 1": false
+    }
+  }
+}
